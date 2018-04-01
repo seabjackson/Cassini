@@ -54,14 +54,22 @@
 		B58A799620709DDE006588E2 /* Cassini */ = {
 			isa = PBXGroup;
 			children = (
-				B58A799720709DDE006588E2 /* AppDelegate.swift */,
 				B58A799920709DDE006588E2 /* ViewController.swift */,
 				B58A799B20709DDE006588E2 /* Main.storyboard */,
-				B58A799E20709DDE006588E2 /* Assets.xcassets */,
-				B58A79A020709DDE006588E2 /* LaunchScreen.storyboard */,
 				B58A79A320709DDE006588E2 /* Info.plist */,
+				B58A79A920709E00006588E2 /* Supporting Files */,
 			);
 			path = Cassini;
+			sourceTree = "<group>";
+		};
+		B58A79A920709E00006588E2 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				B58A799720709DDE006588E2 /* AppDelegate.swift */,
+				B58A799E20709DDE006588E2 /* Assets.xcassets */,
+				B58A79A020709DDE006588E2 /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
